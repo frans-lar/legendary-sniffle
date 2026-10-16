@@ -1,0 +1,22 @@
+{
+  "name": "legendary-sniffle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frans-lar/legendary-sniffle.git"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/frans-lar/legendary-sniffle/issues"
+  },
+  "homepage": "https://github.com/frans-lar/legendary-sniffle#readme",
+  "devDependencies": {
+    "@types/k6": "^2.3.0"
+  }
+}
