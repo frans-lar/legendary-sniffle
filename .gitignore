@@ -1,0 +1,14 @@
+# Beroenden
+node_modules/
+
+# Testresultat och rapporter
+results/
+*.html
+summary.json
+
+# Hemligheter (tokens, URL:er, lösenord)
+.env
+
+# OS/editor
+.DS_Store
+Thumbs.db
